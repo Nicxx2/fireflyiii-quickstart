@@ -36,6 +36,8 @@ Modify the provided Docker Compose file to customize the environment variables a
 ***MYSQL_USER***, ***MYSQL_PASSWORD***: Database credentials. <br>
 ***STATIC_CRON_TOKEN***: Security token for scheduled tasks.
 
+***Link to Docker Hub***: https://hub.docker.com/r/nicxx2/fireflyiii-quickstart
+
 ### Docker Compose:
 ```yaml
 version: '3.3'
