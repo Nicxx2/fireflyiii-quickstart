@@ -18,7 +18,7 @@ docker pull nicxx2/fireflyiii-quickstart
 ```
 
 ***Run with Docker Compose***
-Download the Docker Compose file from our repository, make any necessary adjustments to the environment variables, and start your services:
+Use the Docker Compose from the repository, make any necessary adjustments to the environment variables, and start your services:
 
 ```bash
 docker-compose up -d
