@@ -17,7 +17,7 @@ Welcome to the Firefly III Quickstart Docker Image repository! This custom Docke
 docker pull nicxx2/fireflyiii-quickstart
 ```
 
-***Run with Docker Compose***
+***Run with Docker Compose*** </br>
 Use the Docker Compose from the repository, make any necessary adjustments to the environment variables, and start your services:
 
 ```bash
