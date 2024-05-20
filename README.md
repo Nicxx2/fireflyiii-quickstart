@@ -160,7 +160,7 @@ services:
       - STATIC_CRON_TOKEN=aaadd7f048dcb455a863144ccd44bc2d
 
   data-importer:
-    image: fireflyiii/data-importer:latest
+    image: fireflyiii/data-importer:version-1.4.5
     container_name: firefly_iii_data_importer
     ports:
       - "8082:8080"
