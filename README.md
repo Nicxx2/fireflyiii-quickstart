@@ -4,6 +4,7 @@ If you found this helpful and want to support what I do, you can leave a tip her
 
 [![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nicxx2)
 
+---
 
 # Firefly III Quickstart Docker Image
 
