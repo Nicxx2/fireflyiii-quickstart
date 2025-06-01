@@ -1,3 +1,10 @@
+## 💖 Support This Project
+
+If you found this helpful and want to support what I do, you can leave a tip here — thank you so much!
+
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nicxx2)
+
+
 # Firefly III Quickstart Docker Image
 
 Welcome to the Firefly III Quickstart Docker Image repository! This custom Docker image is optimized to simplify and accelerate the deployment of Firefly III, the free and open-source personal finance manager. This image automates much of the setup process, allowing users to get Firefly III up and running with minimal manual configuration.
