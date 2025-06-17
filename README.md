@@ -1,3 +1,12 @@
+![Sponsored OSS](https://img.shields.io/badge/Sponsored-OSS-8a3af8?logo=github-sponsors&logoColor=white)
+
+![Docker Pulls](https://img.shields.io/docker/pulls/nicxx2/fireflyiii-quickstart)
+
+![License](https://img.shields.io/github/license/Nicxx2/fireflyiii-quickstart)
+
+
+---
+
 ## 💖 Support This Project
 
 If you found this helpful and want to support what I do, you can leave a tip here — thank you so much!
